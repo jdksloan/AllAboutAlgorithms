@@ -4,3 +4,6 @@
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\IndexOfExtraElementInArrays\obj\Debug\IndexOfExtraElementInArrays.csprojResolveAssemblyReference.cache
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\IndexOfExtraElementInArrays\obj\Debug\IndexOfExtraElementInArrays.exe
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\IndexOfExtraElementInArrays\obj\Debug\IndexOfExtraElementInArrays.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\IndexOfExtraElementInArrays\bin\Debug\IndexOfExtraElementInArrays.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\IndexOfExtraElementInArrays\obj\Debug\IndexOfExtraElementInArrays.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\IndexOfExtraElementInArrays\obj\Debug\IndexOfExtraElementInArrays.pdb
