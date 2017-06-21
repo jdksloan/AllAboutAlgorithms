@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\bin\Debug\BitsToBeFlipped.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\bin\Debug\BitsToBeFlipped.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\bin\Debug\BitsToBeFlipped.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\obj\Debug\BitsToBeFlipped.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\obj\Debug\BitsToBeFlipped.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BitsToBeFlipped\obj\Debug\BitsToBeFlipped.pdb

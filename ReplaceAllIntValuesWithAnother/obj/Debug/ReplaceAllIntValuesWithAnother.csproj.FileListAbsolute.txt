@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\bin\Debug\ReplaceAllIntValuesWithAnother.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\bin\Debug\ReplaceAllIntValuesWithAnother.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\bin\Debug\ReplaceAllIntValuesWithAnother.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\obj\Debug\ReplaceAllIntValuesWithAnother.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\obj\Debug\ReplaceAllIntValuesWithAnother.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ReplaceAllIntValuesWithAnother\obj\Debug\ReplaceAllIntValuesWithAnother.pdb

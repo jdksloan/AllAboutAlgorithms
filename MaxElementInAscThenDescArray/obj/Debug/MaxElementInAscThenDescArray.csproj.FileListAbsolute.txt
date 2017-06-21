@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MaxElementInAscThenDescArray\bin\Debug\MaxElementInAscThenDescArray.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MaxElementInAscThenDescArray\bin\Debug\MaxElementInAscThenDescArray.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MaxElementInAscThenDescArray\bin\Debug\MaxElementInAscThenDescArray.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MaxElementInAscThenDescArray\obj\Debug\MaxElementInAscThenDescArray.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MaxElementInAscThenDescArray\obj\Debug\MaxElementInAscThenDescArray.pdb

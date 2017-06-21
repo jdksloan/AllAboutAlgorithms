@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\bin\Debug\MinDifferenceInArray.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\bin\Debug\MinDifferenceInArray.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\bin\Debug\MinDifferenceInArray.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\obj\Debug\MinDifferenceInArray.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\obj\Debug\MinDifferenceInArray.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\MinDifferenceInArray\obj\Debug\MinDifferenceInArray.pdb

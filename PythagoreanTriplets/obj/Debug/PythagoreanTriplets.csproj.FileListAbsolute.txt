@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\bin\Debug\PythagoreanTriplets.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\bin\Debug\PythagoreanTriplets.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\bin\Debug\PythagoreanTriplets.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\obj\Debug\PythagoreanTriplets.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\obj\Debug\PythagoreanTriplets.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PythagoreanTriplets\obj\Debug\PythagoreanTriplets.pdb

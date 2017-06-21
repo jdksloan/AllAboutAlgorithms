@@ -1,0 +1,2 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BinaryTreeIsBST\bin\Debug\BinaryTreeIsBST.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BinaryTreeIsBST\obj\Debug\BinaryTreeIsBST.csprojResolveAssemblyReference.cache

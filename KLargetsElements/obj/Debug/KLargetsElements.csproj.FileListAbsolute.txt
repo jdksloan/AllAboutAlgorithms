@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\bin\Debug\KLargetsElements.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\bin\Debug\KLargetsElements.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\bin\Debug\KLargetsElements.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\obj\Debug\KLargetsElements.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\obj\Debug\KLargetsElements.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\KLargetsElements\obj\Debug\KLargetsElements.pdb

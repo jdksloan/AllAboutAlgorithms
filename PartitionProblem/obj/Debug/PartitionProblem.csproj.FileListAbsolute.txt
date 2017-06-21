@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\bin\Debug\PartitionProblem.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\bin\Debug\PartitionProblem.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\bin\Debug\PartitionProblem.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\obj\Debug\PartitionProblem.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\obj\Debug\PartitionProblem.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\PartitionProblem\obj\Debug\PartitionProblem.csprojResolveAssemblyReference.cache

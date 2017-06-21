@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\bin\Debug\SquareRootBinarySearch.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\bin\Debug\SquareRootBinarySearch.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\bin\Debug\SquareRootBinarySearch.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\obj\Debug\SquareRootBinarySearch.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\obj\Debug\SquareRootBinarySearch.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\SquareRootBinarySearch\obj\Debug\SquareRootBinarySearch.pdb

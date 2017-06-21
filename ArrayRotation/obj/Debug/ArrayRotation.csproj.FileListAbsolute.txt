@@ -1,0 +1,5 @@
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\bin\Debug\ArrayRotation.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\bin\Debug\ArrayRotation.pdb
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\obj\Debug\ArrayRotation.exe
+\\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\obj\Debug\ArrayRotation.pdb
