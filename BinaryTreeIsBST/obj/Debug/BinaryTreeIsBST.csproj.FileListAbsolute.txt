@@ -1,2 +1,8 @@
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BinaryTreeIsBST\bin\Debug\BinaryTreeIsBST.exe.config
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\BinaryTreeIsBST\obj\Debug\BinaryTreeIsBST.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\bin\Debug\BinaryTreeIsBST.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\bin\Debug\BinaryTreeIsBST.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\bin\Debug\BinaryTreeIsBST.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\obj\Debug\BinaryTreeIsBST.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\obj\Debug\BinaryTreeIsBST.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\BinaryTreeIsBST\obj\Debug\BinaryTreeIsBST.pdb

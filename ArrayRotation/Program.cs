@@ -20,10 +20,12 @@ namespace ArrayRotation
 
         public static int [] RotateLeft(int[] arr, int d, int n)
         {
+            if (d == 0 | n == 0)
+                return arr;
             //d = number to move
             //n = length of array
             int i, j, k, temp;
-            for (i = 0; i < GetGDC(d, n); i++)
+            for (i = 0; i < GetGCD(d, n); i++)
             {
                 temp = arr[i];
                 j = i;
@@ -44,12 +46,12 @@ namespace ArrayRotation
         }
 
 
-        public static int GetGDC(int a, int b)
+        public static int GetGCD(int a, int b)
         {
             if (b == 0)
                 return a;
             else
-                return GetGDC(b, a % b);
+                return GetGCD(b, a % b);
         }
     }
 }

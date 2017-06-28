@@ -1,0 +1,5 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\LongestIncreasingSubsequence\bin\Debug\LongestIncreasingSubsequence.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\LongestIncreasingSubsequence\obj\Debug\LongestIncreasingSubsequence.pdb

@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\bin\Debug\EqualToProduct.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\bin\Debug\EqualToProduct.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\bin\Debug\EqualToProduct.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\obj\Debug\EqualToProduct.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\obj\Debug\EqualToProduct.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\EqualToProduct\obj\Debug\EqualToProduct.pdb

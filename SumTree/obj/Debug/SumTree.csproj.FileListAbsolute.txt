@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\bin\Debug\SumTree.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\bin\Debug\SumTree.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\bin\Debug\SumTree.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\obj\Debug\SumTree.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\obj\Debug\SumTree.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\SumTree\obj\Debug\SumTree.pdb

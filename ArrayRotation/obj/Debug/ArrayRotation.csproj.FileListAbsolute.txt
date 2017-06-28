@@ -3,3 +3,9 @@
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\bin\Debug\ArrayRotation.pdb
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\obj\Debug\ArrayRotation.exe
 \\mac\home\documents\visual studio 2015\Projects\PythagoreanTriplets\ArrayRotation\obj\Debug\ArrayRotation.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\obj\Debug\ArrayRotation.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\obj\Debug\ArrayRotation.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\bin\Debug\ArrayRotation.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\bin\Debug\ArrayRotation.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\ArrayRotation\obj\Debug\ArrayRotation.csprojResolveAssemblyReference.cache

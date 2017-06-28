@@ -1,0 +1,6 @@
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe.config
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\bin\Debug\KadanesAlgorithm.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.exe
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.pdb
+\\Mac\Home\Documents\Visual Studio 2015\Projects\AllAboutAlgorithms\KadanesAlgorithm\obj\Debug\KadanesAlgorithm.csprojResolveAssemblyReference.cache
